@@ -1,0 +1,283 @@
+.nav{
+	display:block;
+	background-color:black;
+	text-align:center;
+
+}
+
+
+.nav a{
+	display:inline-block;
+	color:white;
+	text-decoration:none;
+	margin-right:40px;
+	margin:left:40px;
+	margin-top:20px;
+	margin-bottom:20px;
+	text-align:center;
+	word-spacing:10px;
+	text-transform: capitalize;
+	}
+.nav a:hover{
+	background-color:white;
+	color:purple;
+}
+
+.photography a{
+	  text-decoration:none;
+	  color:white;
+	  font-size:40px;
+	  vertical-align:-150px;
+}
+.photography a:hover{
+	background-color:white;
+	color:purple;
+}
+
+.photography{
+	  border-radius:50%;
+          border:2px white dashed;
+          display:inline-block;
+	  width:300px;
+	  height:300px;
+	  float: right;
+	  text-align:center;
+	  background-color:white;
+	  background-image:url(file:///H:/webdevassign1/images/251.JPG);
+	  }
+
+.design a{
+	  text-decoration:none;
+	  color:white;
+	  font-size:40px;
+	  vertical-align:-150px;
+}
+.design a:hover{
+	background-color:white;
+	color:purple;
+}
+
+.design{
+	  border-radius:50%;
+          border:2px white dashed;
+          display:inline-block;
+	  width:300px;
+	  height:300px;
+          clear: right;
+	  text-align:center;
+	  margin-left:200px;
+	  background-color:white;
+	  background-image:url(file:///H:/webdevassign1/images/robot.jpg.png)
+}
+.media a{
+	  text-decoration:none;
+	  color:white;
+	  font-size:40px;
+	  vertical-align:-150px;
+}
+.media a:hover{
+	background-color:white;
+	color:purple;
+}
+.media{
+          border-radius:50%;
+          border:2px white dashed;
+          display:inline-block;
+          width:300px;
+	  height:300px;
+	  float:right;
+	  clear:left;
+	  text-align:center;
+          margin-right:200px;
+	  background-color:purple;
+}
+.homepage a{
+	  color:white;
+	  text-decoration:none;
+	  font-size:40px;
+	  vertical-align:-150px;
+}
+.homepage a:hover{
+	background-color:white;
+	color:purple;
+}
+.homepage{
+          border-radius:50%;
+          border:2px white dashed;
+          display:inline-block;
+	  width:300px;
+	  height:300px;
+	  float: left;
+	  text-align:center;
+	  margin-right:210px;
+	  background-color:purple;
+          
+}
+.aboutme a{
+	  text-decoration:none;
+	  color:white;
+	  font-size:40px;
+	  vertical-align:-150px;
+}
+.aboutme a:hover{
+	background-color:white;
+	color:purple;
+}
+.aboutme{
+	  border-radius:50%;
+          border:2px white dashed;
+          display:inline-block;
+	  width:300px;
+	  height:300px;
+ 	  float:inherit;
+	  text-align:center;
+          background-color:purple; 
+	  
+}
+
+h1{	  text-align:center;}
+h2 {
+	text-align:center;
+	font-size:30px;
+	color:white;
+	background-color:purple;
+	border: 2px white dashed;
+}
+
+.aboutbody{
+	padding:0px;
+	margin:0px;
+	display:inline-block;
+	float:right;
+	
+}
+.aboutbody img{
+	display:inline;
+	float:right;
+	background-color:black;
+	border-radius:10px;
+
+}
+.aboutmepara {
+	float:right;
+	color:white;
+	border-radius:10px;
+	float:left;
+	clear:right;
+	text-align:left;
+	text-decoration:none;
+	font-size:20px;
+	background-color:black;
+}
+
+
+table img {
+	width:400px;
+	height:250px;
+}
+
+table, td {
+	border: 2px white dashed;
+	background-color:purple;
+	color:white;
+	margin-left:50px;
+}
+th {
+	text-align:center;
+	font-size:200%
+}
+.straw img{
+	width:400px;
+	height:400px;
+	display:inline-block;
+	border:2px purple dashed;
+	float:left;
+	
+	
+}
+.star img{
+	width:400px;
+	height:400px;
+	display:inline-block;
+	border:2px purple dashed;
+	position:relative;
+	float:left;
+	margin-left:10px;
+	
+}
+.boat img{
+	width:500px;
+	height:400px;
+	display:inline-block;
+	border:2px purple dashed;
+	position:relative;
+	float:right;
+	
+	
+}
+.robot img{
+	width:400px;
+	height:600px;
+	display:inline-block;
+	border:2px purple dashed;
+	position:relative;
+	float:left;
+	
+
+}
+.pencil img{
+	width:400px;
+	height:600px;
+	display:inline-block;
+	border:2px purple dashed;
+	position:relative;
+	float:right;
+}
+.designpara {
+	border:2px white dashed;
+	width:300px;
+	height:300px;
+	font-size:35px;
+	float:left;
+	margin-left:100px;
+	margin-top:50px;
+	background-color:purple;
+	color:white;
+	
+}
+.footer{
+	margin-top:1000px;
+}
+h3 {
+	text-align:center;
+	font-size:30px;
+	color:white;
+	background-color:purple;
+	border:2px white dashed;
+}
+body{
+	background-color:black;
+	color:white;
+}
+.sitemap {
+	text-align:center;
+	margin-right:80px;
+	text-decoration:none;
+}
+h4 {
+	text-align:center;
+	font-size:30px;
+	color:white;
+	background-color:purple;
+	border:2px white dashed;
+}
+
+.video{
+	background-color:purple;
+	text-decoration:none;
+	align:center;
+}
+footer{
+	text-align:center;
+	display:block;
+}
