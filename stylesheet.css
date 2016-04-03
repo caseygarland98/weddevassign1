@@ -43,7 +43,7 @@
 	  float: right;
 	  text-align:center;
 	  background-color:white;
-	  background-image:url(file:///H:/webdevassign1/images/251.JPG);
+	  background-image:url("file:///H:/webdevassign1/images/251.JPG");
 	  }
 
 .design a{
