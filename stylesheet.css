@@ -43,7 +43,7 @@
 	  float: right;
 	  text-align:center;
 	  background-color:white;
-	  background-image:url("file:///H:/webdevassign1/images/251.JPG");
+	  background-image:url("images/251.JPG");
 	  }
 
 .design a{
@@ -67,7 +67,7 @@
 	  text-align:center;
 	  margin-left:200px;
 	  background-color:white;
-	  background-image:url(file:///H:/webdevassign1/images/robot.jpg.png)
+	  background-image:url(images/robot.jpg.png)
 }
 .media a{
 	  text-decoration:none;
